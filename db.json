@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "name": "Mohammad Farhan Ahmed",
+      "email": "mohdfarhan227@gmail.com",
+      "address": "sample edited address",
+      "education": "btech",
+      "password": "Password123",
+      "id": 1
+    },
+    {
+      "name": "Farhan Ahmed",
+      "email": "mohdfarhan227@gmail.com",
+      "address": "baigan",
+      "education": "bsc",
+      "password": "asasa",
+      "id": 3
+    }
+  ]
+}
